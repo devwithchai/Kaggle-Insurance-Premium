@@ -106,7 +106,3 @@ pip install -r requirements.txt
 2. Train the model using `model_training.py`.
 3. Evaluate the model using `model_evaluation.py`.
 4. Generate predictions and format them according to the submission requirements.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
