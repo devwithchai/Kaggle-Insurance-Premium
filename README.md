@@ -40,9 +40,6 @@ This project analyzes insurance premium data and builds predictive models to est
     python evaluate.py
     ```
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
 ## Data Files
 
 The following large CSV files are tracked using Git LFS. You can download them directly using the links below:
